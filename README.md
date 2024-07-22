@@ -15,7 +15,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-# Calculate AUC of growth curves with given cut-off timepoints
+## Calculate AUC of growth curves with given cut-off timepoints
 
 **Input:** an Excel .xlsx file with at least two sheets:
 
