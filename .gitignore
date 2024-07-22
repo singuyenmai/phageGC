@@ -1,0 +1,15 @@
+__pycache__/
+*/__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.vscode/
+
+# Data
+*.xlsx
+*.csv
+
+# exploratory notebooks
+GrowthCurves.ipynb
+
+# dumper files
+hippo.txt
